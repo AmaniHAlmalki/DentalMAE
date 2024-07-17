@@ -1,0 +1,14 @@
+numpy
+tensorboard
+tensorboardx
+sklearn
+einops
+copy
+timm
+functools
+math
+pathlib
+os
+scipy
+csv
+trimesh
